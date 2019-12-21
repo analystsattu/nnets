@@ -15,4 +15,4 @@ The multi-layer NN has 2 hidden layers. The first hidden layer has 50 neurons wh
 The Keras based CNN has 1 convolutional layer and 1 fully connected layer. The convolution filter has size 3x3 and consists of 32 channels. The activation function of this convolutional layer is ‘relu’. The output of this convolutional layer is connected to a fully connected layer of with 16 nodes. The activation of this layer is ‘sigmoid’.
 
 
-The output of performance of the 3 networks are shown in the jupyter notebook.
+The performance of the 3 networks are shown in the self explanatory jupyter notebook.
