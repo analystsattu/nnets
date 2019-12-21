@@ -7,7 +7,7 @@ Here we implement a single layer neural network (NN) and a multi-layer nueral ne
 Dataset-
 
 We try to classify the Fashion-MNIST dataset using the NNs. This dataset consists of 70,000 grayscale images clothing of size 28x28. Each image in the datset belongs to one of the 10 categories shown below- 
-![Image of Fashion dataset](https://github.com/analystsattu/img/dataset.png)
+![Image of Fashion dataset](https://github.com/analystsattu/nnets/blob/master/img/dataset.png)
 
 Architecture- 
 The multi-layer NN has 2 hidden layers. The first hidden layer has 50 neurons whereas the second layer has 40 neurons.
