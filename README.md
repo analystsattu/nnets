@@ -1,5 +1,4 @@
 # nnets
-Multi-Layer Neural Network from Scratch in Python
 
 Here we implement a single layer neural network (NN) and a multi-layer nueral network (NN) from scratch in Python using Numpy. We compare the performance of this NN with a convolutional neural network made using the Keras library. We train the NNs to perform image classification on the Fashion-MNIST dataset.
 
